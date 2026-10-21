@@ -23,3 +23,4 @@ Engineering Evaluation: Discussion of modeling assumptions, simulation limitatio
 ## Full Research Report
 
 All simulation figures, numerical results, optical configurations, and technical discussions are consolidated in the following document:
+https://github.com/ZHAOJIAN-YANG/Optical-Coupling-Simulation-and-Optical-system-design/blob/main/docs/Report.pdf
